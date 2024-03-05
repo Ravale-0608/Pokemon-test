@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1709651612
+icon.svg::CompressedTexture2D::1846061723062525689::1709651550::1709651612::1::::<><>::
+::res://Art/::1709651550
+fence1_tileset.png::CompressedTexture2D::106447059864078045::1709651550::1709651612::1::::<><>::
+grass2_tileset.png::CompressedTexture2D::3365057660319767559::1709651550::1709651612::1::::<><>::
+grass_step_animation.png::CompressedTexture2D::2690070843667545949::1709651550::1709651612::1::::<><>::
+house1.png::CompressedTexture2D::7076234268334999762::1709651550::1709651612::1::::<><>::
+Male_Spritesheet.png::CompressedTexture2D::8114933740072629298::1709651550::1709651612::1::::<><>::
+red_flower.png::CompressedTexture2D::8552590599740322822::1709651550::1709651612::1::::<><>::
+tree1.png::CompressedTexture2D::4984852388372007625::1709651550::1709651612::1::::<><>::
+::res://Characters/::1709651550
+character_body_2d.gd::GDScript::-1::1709651550::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::6981176543677770354::1709651550::0::1::::<><>::uid://dnu61jxvehecg::::res://Art/Male_Spritesheet.png<>res://Characters/character_body_2d.gd
+::res://Levels/::1709651550
+game_level.tscn::PackedScene::4009444315148163801::1709651550::0::1::::<><>::uid://c6py7td5v3uow::::res://Characters/character_body_2d.tscn<>uid://bn7cajjnjsl4b::::res://Art/grass2_tileset.png<>uid://beldcrjq0y73v::::res://Art/grass_step_animation.png<>uid://cdax144nwai4p::::res://Art/tree1.png<>uid://brtfxwmfhiqv::::res://Art/fence1_tileset.png<>uid://c721srq7bvldi::::res://Art/house1.png<>uid://dt366g1qepa7o::::res://Art/red_flower.png
