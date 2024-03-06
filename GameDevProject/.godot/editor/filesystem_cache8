@@ -1,16 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-<<<<<<< Updated upstream
-::res://::1709701187
+::res://::1709724403
 icon.svg::CompressedTexture2D::1846061723062525689::1709651550::1709651612::1::::<><>::
-::res://Art/::1709701680
+::res://Art/::1709725788
 dirtpathtileset4.png::CompressedTexture2D::7258052888985456620::1709699902::1709699902::1::::<><>::
-=======
-::res://::1709699795
-icon.svg::CompressedTexture2D::1846061723062525689::1709651550::1709651612::1::::<><>::
-::res://Art/::1709651612
->>>>>>> Stashed changes
 fence1_tileset.png::CompressedTexture2D::106447059864078045::1709651550::1709651612::1::::<><>::
-Game Boy Advance - Pokemon FireRed LeafGreen - Grass and Cliffs.png::CompressedTexture2D::8191826056775736467::1709701596::1709701683::1::::<><>::
+Game Boy Advance - Pokemon FireRed LeafGreen - Hero & Heroine 1.png::CompressedTexture2D::2353276795342841370::1709724909::1709724910::1::::<><>::
+Game Boy Advance - Pokemon FireRed LeafGreen - Hero & Heroine 2.png::CompressedTexture2D::1918217384706305497::1709724909::1709724910::1::::<><>::
+Game Boy Advance - Pokemon FireRed LeafGreen - Hero.png::CompressedTexture2D::7877312952166423963::1709725788::1709725788::1::::<><>::
 Game Boy Advance - Pokemon FireRed LeafGreen - path 1.png::CompressedTexture2D::6774581551676540160::1709701628::1709701153::1::::<><>::
 Game Boy Advance - Pokemon FireRed LeafGreen - paths.png::CompressedTexture2D::6026155729151859583::1709701010::1709701010::1::::<><>::
 Game Boy Advance - Pokemon FireRed LeafGreen - Tileset 2.png::CompressedTexture2D::6809320140771325526::1709700621::1709700651::1::::<><>::
@@ -20,16 +16,8 @@ house1.png::CompressedTexture2D::7076234268334999762::1709651550::1709651612::1:
 Male_Spritesheet.png::CompressedTexture2D::8114933740072629298::1709651550::1709651612::1::::<><>::
 red_flower.png::CompressedTexture2D::8552590599740322822::1709651550::1709651612::1::::<><>::
 tree1.png::CompressedTexture2D::4984852388372007625::1709651550::1709651612::1::::<><>::
-<<<<<<< Updated upstream
-::res://Characters/::1709699941
-character_body_2d.gd::GDScript::-1::1709657173::0::1::::<>CharacterBody2D<>::
-character_body_2d.tscn::PackedScene::6981176543677770354::1709699941::0::1::::<><>::uid://dnu61jxvehecg::::res://Art/Male_Spritesheet.png<>res://Characters/character_body_2d.gd
-::res://Levels/::1709701181
-game_level.tscn::PackedScene::4009444315148163801::1709701181::0::1::::<><>::uid://c6py7td5v3uow::::res://Characters/character_body_2d.tscn<>uid://bn7cajjnjsl4b::::res://Art/grass2_tileset.png<>uid://beldcrjq0y73v::::res://Art/grass_step_animation.png<>res://Art/dirtpathtileset4.png<>uid://cdax144nwai4p::::res://Art/tree1.png<>uid://brtfxwmfhiqv::::res://Art/fence1_tileset.png<>uid://c721srq7bvldi::::res://Art/house1.png<>uid://dt366g1qepa7o::::res://Art/red_flower.png<>uid://c3rwmr3x6t1bo::::res://Art/Game Boy Advance - Pokemon FireRed LeafGreen - path 1.png
-=======
-::res://Characters/::1709658449
-character_body_2d.gd::GDScript::-1::1709657173::0::1::::<>CharacterBody2D<>::
-character_body_2d.tscn::PackedScene::6981176543677770354::1709658449::0::1::::<><>::uid://dnu61jxvehecg::::res://Art/Male_Spritesheet.png<>res://Characters/character_body_2d.gd
-::res://Levels/::1709658449
-game_level.tscn::PackedScene::4009444315148163801::1709658449::0::1::::<><>::uid://c6py7td5v3uow::::res://Characters/character_body_2d.tscn<>uid://bn7cajjnjsl4b::::res://Art/grass2_tileset.png<>uid://beldcrjq0y73v::::res://Art/grass_step_animation.png<>uid://cdax144nwai4p::::res://Art/tree1.png<>uid://brtfxwmfhiqv::::res://Art/fence1_tileset.png<>uid://c721srq7bvldi::::res://Art/house1.png<>uid://dt366g1qepa7o::::res://Art/red_flower.png
->>>>>>> Stashed changes
+::res://Characters/::1709724554
+character_body_2d.gd::GDScript::-1::1709724452::0::1::::<>CharacterBody2D<>::
+character_body_2d.tscn::PackedScene::6981176543677770354::1709724554::0::1::::<><>::uid://dnu61jxvehecg::::res://Art/Male_Spritesheet.png<>res://Characters/character_body_2d.gd
+::res://Levels/::1709724554
+game_level.tscn::PackedScene::4009444315148163801::1709724554::0::1::::<><>::uid://c6py7td5v3uow::::res://Characters/character_body_2d.tscn<>uid://bn7cajjnjsl4b::::res://Art/grass2_tileset.png<>uid://beldcrjq0y73v::::res://Art/grass_step_animation.png<>uid://dbn4cnxqtw2gu::::res://Art/dirtpathtileset4.png<>uid://cdax144nwai4p::::res://Art/tree1.png<>uid://brtfxwmfhiqv::::res://Art/fence1_tileset.png<>uid://c721srq7bvldi::::res://Art/house1.png<>uid://dt366g1qepa7o::::res://Art/red_flower.png<>uid://cr4d50rublspr::::res://Art/Game Boy Advance - Pokemon FireRed LeafGreen - paths.png

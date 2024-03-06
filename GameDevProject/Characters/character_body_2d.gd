@@ -8,7 +8,7 @@ extends CharacterBody2D
 
 
 func _ready():
-	update_animation_parameters(starting_direction)
+	#update_animation_parameters(starting_direction)
 	print("Started")
 
 
@@ -30,6 +30,8 @@ func update_animation_parameters(move_input : Vector2):
 
 func pick_new_state():
 	if(velocity != Vector2.ZERO):
-		state_machine.travel("Walking")		
+		pass
+		#state_machine.travel("Walking")		
 	else:
-		state_machine.travel("Idle")
+		pass
+		#state_machine.travel("Idle")
