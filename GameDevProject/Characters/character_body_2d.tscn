@@ -85,6 +85,9 @@ tracks/0/keys = {
 "values": [3, 3]
 }
 
+[sub_resource type="Animation" id="Animation_cjxav"]
+resource_name = "test"
+
 [sub_resource type="Animation" id="Animation_0r84g"]
 resource_name = "walkdown"
 length = 0.4
@@ -152,9 +155,6 @@ tracks/0/keys = {
 "update": 1,
 "values": [3, 3]
 }
-
-[sub_resource type="Animation" id="Animation_cjxav"]
-resource_name = "test"
 
 [sub_resource type="AnimationLibrary" id="AnimationLibrary_jijo1"]
 _data = {
