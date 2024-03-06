@@ -9,6 +9,7 @@ extends CharacterBody2D
 
 func _ready():
 	update_animation_parameters(starting_direction)
+	print("Started")
 
 
 func _physics_process(_delta):
@@ -19,7 +20,7 @@ func _physics_process(_delta):
 	
 	velocity = direction * move_speed 
 	move_and_slide()
-
+	
 
 
 func update_animation_parameters(move_input : Vector2):
